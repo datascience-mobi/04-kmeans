@@ -1,6 +1,9 @@
 
 # K-Means Custering
 
+* **Supervisor**: Thorsten Beier
+* **Tutor**: Alexander Mattausch
+
 The KMeans algorithm is one of the most popular clustering algorithms.
 It is an important building block for bioinformatics and image analysis.
 While the  K-Means algorithm is fast enough for small to medium sized datasets, the runtime becomes a problem for large datasets.
