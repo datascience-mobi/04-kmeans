@@ -1,8 +1,8 @@
 
 # K-Means Custering
 
-* **Supervisor**: Thorsten Beier
-* **Tutor**: Alexander Mattausch
+* Supervisor: Thorsten Beier ([thorsten.beier@embl.de](mailto:thorsten.beier@embl.de))
+* Tutor: Alexander Mattausch ([a.mattausch@stud.uni-heidelberg.de](a.mattausch@stud.uni-heidelberg.de))
 
 
 The KMeans algorithm is one of the most popular clustering algorithms.
