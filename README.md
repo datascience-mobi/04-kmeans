@@ -1,5 +1,5 @@
 
-# k-Means Custering
+# k-means Clustering
 
 * Supervisor: Thorsten Beier ([thorsten.beier@embl.de](mailto:thorsten.beier@embl.de))
 * Tutor: Alexander Mattausch ([a.mattausch@stud.uni-heidelberg.de](a.mattausch@stud.uni-heidelberg.de))
